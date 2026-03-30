@@ -112,7 +112,7 @@ These KPIs provide a concise view of order volume, service quality, and customer
 
 ---
 
- 💡 ## **Sample Business Insights**
+ 💡 ## **Business Insights**
 
  1. **Customer Sentiment (Critical Issue)**
 
