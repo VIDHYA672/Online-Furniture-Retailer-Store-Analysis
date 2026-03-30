@@ -152,7 +152,8 @@ These KPIs provide a concise view of order volume, service quality, and customer
 
 8. **Brand & Category Performance**
 
-* Top revenue: Bedroom (~$516K), Living Room (~$483K)
+* Top revenue: Bedroom (~$516K)
+*  Living Room (~$483K)
 * Lowest: Office (~$295K)
 * Overstock leads; Unknown brand performs worst
 * Impact: Focus on top categories; improve Office segment for growth
