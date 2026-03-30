@@ -114,10 +114,55 @@ These KPIs provide a concise view of order volume, service quality, and customer
 
  💡 ## **Sample Business Insights**
 
-* 🪑 Living Room and Dining Room categories generate the highest share of revenue.
-* 🔧 High-value orders show a higher preference for assembly services.
-* ❌ Failed and rescheduled deliveries are strongly associated with lower ratings and higher detractor rates.
-* 📱 Digital payment methods (Apple Pay, Google Pay) demonstrate faster processing and fewer cancellations.
+ 1. **Customer Sentiment (Critical Issue)**
+
+* NPS: -45 (59% detractors, 14% promoters)
+* Indicates very low customer satisfaction
+* Impact: High churn risk, fewer repeat purchases, brand damage
+
+2. **Delivery Issues Driving Dissatisfaction**
+
+* Delivered orders: 3.14 rating (highest)
+* Failed delivery: 2.99, Cancelled: 3.08 (lower satisfaction)
+* Impact: Poor delivery reduces NPS and customer retention
+
+3. **Longer Delivery Time Reduces Satisfaction**
+* Ratings drop when delivery exceeds 1–2 days
+*Impact: Faster and realistic delivery timelines improve satisfaction and loyalty
+4. Assembly Service Improves Satisfaction
+
+* More promoters and fewer detractors with assembly service
+* Impact: Increases satisfaction and reduces post-delivery issues
+
+5. **Payment Method Affects Experience**
+
+* Bank Transfer & PayPal (~3.2) perform better than digital wallets (~3.0)
+* Impact: Improving wallet experience can boost satisfaction
+
+6. **Category-Wise Satisfaction Gap**
+
+* Higher: Outdoor (338), Living Room (332)
+* Lower: Dining Room (303), Bedroom
+* Impact: Improve low-performing categories for better NPS
+
+7. **High-Value Orders = Higher Satisfaction**
+
+* High-value orders (~6 rating) vs standard (~3)
+* Impact: Expanding premium features can increase loyalty and LTV
+
+8. **Brand & Category Performance**
+
+* Top revenue: Bedroom (~$516K), Living Room (~$483K)
+* Lowest: Office (~$295K)
+* Overstock leads; Unknown brand performs worst
+* Impact: Focus on top categories; improve Office segment for growth
+
+
+
+
+
+
+
 
 ---
 ## **Dashboard Snapshot**
