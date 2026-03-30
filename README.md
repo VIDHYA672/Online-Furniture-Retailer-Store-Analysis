@@ -1,4 +1,4 @@
-##**Online Furniture Retailer Store Analysis**
+# **Online Furniture Retailer Store Analysis**
 
  📌 ## **Project Overview**
 
@@ -8,7 +8,7 @@ The analysis focuses on product performance, order fulfillment, payment behavior
 
 ---
 
- ## **🎯 Objectives **
+ ## **Objectives **
 
  📊 Analyze overall sales and revenue trends
  🪑 Identify high-performing and low-performing product categories
@@ -41,7 +41,7 @@ The dataset contains transactional-level order data with the following key field
 
 ---
 
- 🛠️ ## **Tools & Technologies Used**
+  ## **Tools & Technologies Used**
 
 - **Microsoft Excel**
 
@@ -96,7 +96,7 @@ The dataset contains transactional-level order data with the following key field
 
 ---
 
- 📌 Key Performance Indicators (KPIs)
+ 📌 ## **Key Performance Indicators (KPIs)**
 
 The following core KPIs were tracked to evaluate business performance and customer satisfaction:
 
@@ -112,7 +112,7 @@ These KPIs provide a concise view of order volume, service quality, and customer
 
 ---
 
- 💡 Sample Business Insights
+ 💡 ## **Sample Business Insights**
 
 * 🪑 Living Room and Dining Room categories generate the highest share of revenue.
 * 🔧 High-value orders show a higher preference for assembly services.
@@ -120,8 +120,25 @@ These KPIs provide a concise view of order volume, service quality, and customer
 * 📱 Digital payment methods (Apple Pay, Google Pay) demonstrate faster processing and fewer cancellations.
 
 ---
+## **Dashboard Snapshot**
+<img width="1066" height="727" alt="Screenshot 2026-03-28 141035" src="https://github.com/user-attachments/assets/825f80f6-6d8a-44b9-828c-3fb552c0476d" />
+<img width="1095" height="730" alt="Screenshot 2026-03-28 140950" src="https://github.com/user-attachments/assets/43bf8d96-ba8a-4e14-b822-a8dfd810d93d" />
 
-📁 Folder / File Structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📁 ## **Folder / File Structure**
 
 ```
 Online-Furniture-Retailer-Store-Analysis/
@@ -143,7 +160,7 @@ Online-Furniture-Retailer-Store-Analysis/
 
 ---
 
-▶️ How to Run / Use This Project
+## **▶️ How to Run / Use This Project**
 
 1. Open the main Excel workbook in Microsoft Excel.
 2. Refresh all Pivot Tables and data connections if required.
@@ -152,7 +169,7 @@ Online-Furniture-Retailer-Store-Analysis/
 
 ---
 
- 🧠 Skills Demonstrated
+ 🧠## **Skills Demonstrated**
 
 * 🧹 Data cleaning and preprocessing
 * 📊 Advanced Excel analysis and reporting
@@ -162,7 +179,7 @@ Online-Furniture-Retailer-Store-Analysis/
 
 ---
 
- 👤 Author
+ ## **👤 Author**
 
 Name:VIDHYA V
 Role: Aspiring Data / Business Analyst
@@ -170,7 +187,7 @@ Tools: Microsoft Excel,Python,SQL,Power bi,tableau
 
 ---
 
- 🚀 Future Enhancements
+ 🚀## **Future Enhancements**
 
 * 📊 Build an interactive dashboard using Power BI or Tableau
 * ⏳ Perform time-series and seasonal trend analysis
