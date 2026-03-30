@@ -165,6 +165,7 @@ These KPIs provide a concise view of order volume, service quality, and customer
 * The analysis indicates a negative relationship between delivery window days and customer ratings, suggesting that longer delivery times reduce customer satisfaction.
 * Action: Optimize logistics operations and partner with faster delivery service providers, Introduce express or priority delivery options for high-value orders
 * Expected Benefit:Reduced delivery times can improve customer ratings, enhance customer experience, and increase repeat purchases.
+  
 **2. Promote Assembly Services to Increase Revenue**
 * Orders that included assembly services showed higher average total order values.
 * Action: Highlight assembly services during the checkout process, Offer bundled discounts or promotional pricing for assembly services on selected products
