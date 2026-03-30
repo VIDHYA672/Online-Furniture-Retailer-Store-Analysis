@@ -158,7 +158,7 @@ These KPIs provide a concise view of order volume, service quality, and customer
 * Overstock leads; Unknown brand performs worst
 * Impact: Focus on top categories; improve Office segment for growth
 
-##**Recommendations **
+## **Recommendations **
 
 **1. Improve Delivery Timelines to Increase Customer Satisfaction**
 
