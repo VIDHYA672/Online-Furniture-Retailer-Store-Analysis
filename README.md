@@ -1,4 +1,4 @@
-#**Online Furniture Retailer Store Analysis**
+##**Online Furniture Retailer Store Analysis**
 
  📌 ## **Project Overview**
 
@@ -18,7 +18,7 @@ The analysis focuses on product performance, order fulfillment, payment behavior
 
 ---
 
- 🗂️## **Dataset Description**
+ ## **Dataset Description**
 
 The dataset contains transactional-level order data with the following key fields:
 
@@ -41,25 +41,25 @@ The dataset contains transactional-level order data with the following key field
 
 ---
 
- 🛠️ Tools & Technologies Used
+ 🛠️ ## **Tools & Technologies Used**
 
-Microsoft Excel
+- **Microsoft Excel**
 
    📑 Pivot Tables & 
    🎨 Conditional Formatting
    🔍 Filters, Sorting & Data Validation
 
-Python 🐍
+- **Python** 🐍
 
   * Data cleaning and preprocessing (Pandas, NumPy)
   * Exploratory data analysis (EDA)
 
-  SQL🗄️
+  - **SQL**🗄️
 
   * Data extraction and filtering using `SELECT`, `JOIN`, `GROUP BY`, `HAVING`
   * KPI and aggregation queries
 
-  Power BI 📊
+  -**Power BI** 📊
 
   * Interactive dashboards and KPI visualization
   * DAX measures and data modeling
@@ -69,27 +69,27 @@ Python 🐍
 
 ---
 
- 🔍 Key Analyses Performed
+ ##**🔍 Key Analyses Performed**
 
-1️⃣ Sales & Revenue Analysis
+-**1️⃣ Sales & Revenue Analysis**
 
 * Total revenue by product category and subcategory
 * Identification of top 5 highest revenue orders
 * Revenue contribution by category and brand
 
-2️⃣ Customer Analysis
+-**2️⃣ Customer Analysis**
 
 * Average customer rating by brand and category
 * Distribution of Promoters, Passives, and Detractors (NPS analysis)
 * High-value customer segment behavior
 
- 3️⃣ Delivery & Operations Analysis
+ -**3️⃣ Delivery & Operations Analysis**
 
 * Delivery status breakdown (Delivered, Pending, Failed, Cancelled, Rescheduled)
 * Identification of late deliveries using delivery window metrics
 * Impact of shipping and assembly costs on total revenue
 
- 4️⃣ Payment Method Analysis
+ -**4️⃣ Payment Method Analysis**
 
 * Revenue and order volume by payment method
 * Comparison of digital payments vs traditional payment modes
