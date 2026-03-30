@@ -1,4 +1,4 @@
-# **Online Furniture Retailer Store Analysis**
+<img width="731" height="175" alt="image" src="https://github.com/user-attachments/assets/a8f02d53-980f-4538-b56c-e69d9dfff0ea" /># **Online Furniture Retailer Store Analysis**
 
  📌 ## **Project Overview**
 
@@ -152,18 +152,25 @@ These KPIs provide a concise view of order volume, service quality, and customer
 
 8. **Brand & Category Performance**
 
-* Top revenue: Bedroom (~$516K)
+* Top revenue: Bedroom (~$516K),
 *  Living Room (~$483K)
 * Lowest: Office (~$295K)
 * Overstock leads; Unknown brand performs worst
 * Impact: Focus on top categories; improve Office segment for growth
 
+##**Recommendations **
 
+**1. Improve Delivery Timelines to Increase Customer Satisfaction**
 
+* The analysis indicates a negative relationship between delivery window days and customer ratings, suggesting that longer delivery times reduce customer satisfaction.
+* Action: Optimize logistics operations and partner with faster delivery service providers• Introduce express or priority delivery options for high-value orders
+* Expected Benefit:Reduced delivery times can improve customer ratings, enhance customer experience, and increase repeat purchases.
+**2. Promote Assembly Services to Increase Revenue**
+* Orders that included assembly services showed higher average total order values.
+* Action: Highlight assembly services during the checkout process• Offer bundled discounts or promotional pricing for assembly services on selected products
+* Expected Benefit:Increased adoption of assembly services can raise average order value and generate additional service revenue.
 
-
-
-
+**For complete details, refer to the report.**
 
 ---
 ## **Dashboard Snapshot**
