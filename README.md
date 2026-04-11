@@ -175,8 +175,10 @@ These KPIs provide a concise view of order volume, service quality, and customer
 
 ---
 ## **Dashboard Snapshot**
-<img width="1066" height="727" alt="Screenshot 2026-03-28 141035" src="https://github.com/user-attachments/assets/825f80f6-6d8a-44b9-828c-3fb552c0476d" />
-<img width="1095" height="730" alt="Screenshot 2026-03-28 140950" src="https://github.com/user-attachments/assets/43bf8d96-ba8a-4e14-b822-a8dfd810d93d" />
+<img width="1646" height="1047" alt="image" src="https://github.com/user-attachments/assets/a39ca118-47b7-4c97-8156-c8d1b6f32182" />
+
+<img width="1097" height="726" alt="image" src="https://github.com/user-attachments/assets/ae474205-7448-4c0d-9512-ad72515e9551" />
+
 
 📁 ## **Folder / File Structure**
 
