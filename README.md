@@ -100,13 +100,15 @@ The dataset contains transactional-level order data with the following key field
 
 The following core KPIs were tracked to evaluate business performance and customer satisfaction:
 
-* 🧾 **Total Orders** – Total number of orders placed during the analysis period
-* ⭐ **Average Customer Rating** – Mean customer rating across all completed orders
-* 📣 **Promoter Percentage** – Percentage of customers classified as Promoters (high satisfaction and loyalty)
-* ⚠️ **Detractor Percentage** – Percentage of customers classified as Detractors (low satisfaction)
-* 🧮 **Net Promoter Score (NPS %)** – Overall NPS calculated as:
-
-  *(Promoter % – Detractor %)*
+- 🧾 **Total Orders** – Total number of orders placed during the analysis period  
+- 💰 **Total Revenue** – Total income generated from all orders
+- 📈 **Total Profit** – Net profit calculated as Revenue minus Cost  
+- 💸 **Total Cost** – Total expenses incurred for products sold
+ - ⚠️ **Detractor Percentage** – Percentage of customers classified as Detractors (low   satisfaction)  
+- 🧮 **Net Promoter Score (NPS %)** – Calculated as % Promoters minus % Detractors  
+  *(Promoter % – Detractor %)*  
+- ⭐ **Average Customer Rating** – Mean customer rating across all completed orders  
+ 
 
 These KPIs provide a concise view of order volume, service quality, and customer loyalty.
 
