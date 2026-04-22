@@ -1,6 +1,6 @@
 # **Online Furniture Retailer Store Analysis**
 
- 📌 ## **Project Overview**
+ 📌**Project Overview**
 
 This project presents a comprehensive data analysis of an online furniture retailer’s transactional dataset to evaluate sales performance, customer behavior, delivery efficiency, and overall customer satisfaction. The goal is to generate actionable business insights that support revenue growth, operational optimization, and improved customer experience.
 
